@@ -1,7 +1,10 @@
+const path = require("path");
+
 module.exports = {
   entry: "./src/index.tsx",
   output: {
-    filename: "./dist/bundle.js",
+    path: path.join(__dirname, 'dist'),
+    fileName: "[name].js"
   },
 
   // Enable sourcemaps for debugging crappack's output.
