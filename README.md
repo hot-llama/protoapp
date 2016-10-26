@@ -9,3 +9,5 @@ A personal boilerplate for prototyping app ideas, life choices, and cults.
 - Run `npm link typescript` why? So you don't have to download a local copy.
 - Install yarn [yarn](https://yarnpkg.com/) why yarn? Because it's soft and yarny.
 - Run `yarn` command.
+- Run `npm start` 
+- Congratulate yourself, self-fives, tell the computer how great you are.
