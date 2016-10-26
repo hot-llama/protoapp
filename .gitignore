@@ -2,7 +2,8 @@
 logs
 *.log
 npm-debug.log*
-
+dist/*.js
+dist/*.js.map
 # Runtime data
 pids
 *.pid
