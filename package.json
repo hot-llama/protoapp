@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "start": "webpack-dev-server --progress --inline --hot",
-    "test": "ava"
+    "test": "ava --verbose"
   },
   "dependencies": {
     "@types/react": "^0.14.41",
