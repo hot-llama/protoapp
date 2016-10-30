@@ -15,6 +15,7 @@
     "ava": "^0.16.0",
     "enzyme": "^2.5.1",
     "react": "^15.3.2",
+    "react-addons-test-utils": "^15.3.2",
     "react-dom": "^15.3.2",
     "source-map-loader": "^0.1.5",
     "ts-loader": "^0.9.5",
