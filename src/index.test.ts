@@ -1,6 +1,6 @@
 import test from 'ava'
-import React from 'react'
-import { shallow } from 'enzyme';
+// import React from 'react'
+// import { shallow } from 'enzyme';
 // import Hello from './components/hello';
 
 // test('mount', t => {
