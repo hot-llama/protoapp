@@ -6,7 +6,8 @@
   "author": "Josh Milo",
   "license": "MIT",
   "scripts": {
-    "start": "webpack-dev-server --progress --inline --hot"
+    "start": "webpack-dev-server --progress --inline --hot",
+    "test": "ava"
   },
   "dependencies": {
     "@types/react": "^0.14.41",
